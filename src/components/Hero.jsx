@@ -20,7 +20,7 @@ function Hero() {
       <motion.div 
         className={`absolute inset-0 z-0 ${styles.heroImage}`}
         style={{
-          backgroundImage: `url(/src/assets/hero-bg.jpg)`,
+          backgroundImage: `url(/images/hero-bg.jpg)`,
           backgroundSize: 'cover',
           backgroundPosition: 'center',
           y

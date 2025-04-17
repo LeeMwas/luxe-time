@@ -77,7 +77,7 @@ export default function About() {
             >
               <motion.div
                 className="h-96 lg:h-full w-full bg-cover bg-center"
-                style={{ backgroundImage: "url(/src/assets/workshop-detail.jpg)" }}
+                style={{ backgroundImage: "url(/images/workshop-detail.jpg)" }}
                 whileHover={{ scale: 1.05 }}
                 transition={{ duration: 0.6 }}
               >
@@ -132,7 +132,7 @@ export default function About() {
                       </p>
                       <div className="flex items-center pt-6">
                         <img
-                          src="/src/assets/founder-signature.jpg"
+                          src="/images/founder-signature.jpg"
                           alt="Founder's signature"
                           className="h-20 mr-6"
                         />
@@ -191,7 +191,7 @@ export default function About() {
             >
               <motion.div
                 className="absolute inset-0 bg-cover bg-center"
-                style={{ backgroundImage: "url(/src/assets/atelier-exterior.jpg)" }}
+                style={{ backgroundImage: "url(/images/atelier-exterior.jpg)" }}
                 whileHover={{ scale: 1.05 }}
                 transition={{ duration: 0.6 }}
               />
@@ -213,7 +213,7 @@ export default function About() {
             >
               <motion.div
                 className="absolute inset-0 bg-cover bg-center"
-                style={{ backgroundImage: "url(/src/assets/watchmaker-closeup.jpg)" }}
+                style={{ backgroundImage: "url(/images/watchmaker-closeup.jpg)" }}
                 whileHover={{ scale: 1.05 }}
                 transition={{ duration: 0.6 }}
               />
@@ -235,7 +235,7 @@ export default function About() {
             >
               <motion.div
                 className="absolute inset-0 bg-cover bg-center"
-                style={{ backgroundImage: "url(/src/assets/limited-collection.jpg)" }}
+                style={{ backgroundImage: "url(/images/limited-collection.jpg)" }}
                 whileHover={{ scale: 1.05 }}
                 transition={{ duration: 0.6 }}
               />

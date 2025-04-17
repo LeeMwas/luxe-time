@@ -11,21 +11,21 @@ const watches = [
     name: 'Eternal Classic',
     description: 'A masterpiece of timeless design with sapphire crystal.',
     price: '$5,999',
-    image: '/src/assets/watch1.jpg',
+    image: '/images/watch1.jpg',
   },
   {
     id: 2,
     name: 'Midnight Elegance',
     description: 'Crafted for the night with a diamond-encrusted bezel.',
     price: '$7,499',
-    image: '/src/assets/watch2.jpg',
+    image: '/images/watch2.jpg',
   },
   {
     id: 3,
     name: 'Golden Horizon',
     description: 'Bold and luxurious with a 24K gold finish.',
     price: '$9,999',
-    image: '/src/assets/watch3.jpg',
+    image: '/images/watch3.jpg',
   },
 ];
 
